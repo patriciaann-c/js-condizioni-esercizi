@@ -1,8 +1,8 @@
-# Esercizio 1
+# Esercizio 2
 
 Il costo del biglietto è di 36 €. Chiedi il peso della valigia in kg. Se il peso supera i 23kg, c'è un supplemento di 20 €, infine stampa il prezzo del biglietto
 
-## Esecuzione
+## Ragionamento
 - Impostiamo il prezzo base del biglietto di 36€
 - Leggiamo il peso della valigia
 - SE il peso della valigia è più di 23kg
